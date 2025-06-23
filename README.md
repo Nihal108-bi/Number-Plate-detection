@@ -18,7 +18,7 @@ This project performs **real-time number plate detection** using OpenCV and Haar
 
 ## 🖥️ Demo
 
-https://github.com/yourusername/number-plate-detector/assets/demo.mp4 *(Add demo link or image)*
+https://youtu.be/ZbM4fapNxnA 
 
 ---
 
